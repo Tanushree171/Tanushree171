@@ -130,7 +130,7 @@ My personal portfolio repository, where I showcase my development journey and pr
 <a href="https://twitter.com/tanushree_171">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
-<a href="https://www.instagram.com/tanushree_biswas/">
+<a href="https://www.instagram.com/official_tanushree17/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://www.kaggle.com/tanushree171">
