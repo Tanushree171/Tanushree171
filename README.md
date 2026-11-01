@@ -81,7 +81,11 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7aa2f7/Tanushree171" alt="GitHub Contribution Graph" width="100%"/>
+<a href="https://github.com/Tanushree171">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanushree171&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&title_color=bb9af7&custom_title=Tanushree's%20Coding%20Journey&hide_border=true&radius=12&height=300" alt="Tanushree's GitHub Contribution Activity Graph" width="100%"/>
+
+</a>
 
 </div>
 
