@@ -8,7 +8,7 @@
 
 # Hi 👋, I'm Tanushree Biswas
 
-### CSE AIML Student • Full Stack Developer in Progress • AI/ML Enthusiast
+### CSE AIML Student • Full Stack Developer  • AI/ML Enthusiast
 
 *Building, learning, and turning ideas into code. 🚀*
 
