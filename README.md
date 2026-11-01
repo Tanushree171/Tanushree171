@@ -81,9 +81,9 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7aa2f7/Tanushree171" alt="Tanushree's GitHub contribution calendar" width="100%"/>
+<img src="https://ghchart.xqsit94.in/dark:6366f1/Tanushree171" alt="Tanushree's Dark GitHub Contribution Calendar" width="100%"/>
 
-**Every contribution is a step forward 💜**
+*Every contribution is a step forward  💜*
 
 </div>
 
